@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="thumbnail_in_list_size">50dp</dimen>
+    <dimen name="favorite_in_list_size">25dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

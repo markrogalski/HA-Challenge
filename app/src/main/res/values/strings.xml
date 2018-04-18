@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HA Challenge</string>
+    <string name="search_hint">Enter search text</string>
+    <string name="favorite_description">Marked as favorite</string>
+    <string name="placeholder_text">Placeholder Text</string>
+    <string name="search_field">Search Field</string>
+    <string name="ticket_prices">Ticket Prices</string>
+    <string name="lowest_price">Lowest Price</string>
+    <string name="highest_price">Highest Price</string>
+    <string name="average_price">Average Price</string>
+</resources>
